@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/vyas/www/node_modules/react-native/React/Executors/RCTJSCExecutor.mm \
+  /Users/vyas/www/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
+  /Users/vyas/www/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/vyas/www/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/vyas/www/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/vyas/www/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/vyas/www/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
+  /Users/vyas/www/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/vyas/www/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/vyas/www/node_modules/react-native/React/Modules/JSCSamplingProfiler.h \
+  /Users/vyas/www/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/vyas/www/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/vyas/www/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/vyas/www/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/vyas/www/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/vyas/www/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/vyas/www/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/vyas/www/node_modules/react-native/React/Executors/RCTJSCErrorHandling.h \
+  /Users/vyas/www/node_modules/react-native/React/Profiler/RCTJSCProfiler.h \
+  /Users/vyas/www/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/vyas/www/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/vyas/www/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/vyas/www/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/vyas/www/node_modules/react-native/React/Modules/RCTDevMenu.h
